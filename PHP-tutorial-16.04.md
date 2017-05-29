@@ -1,4 +1,4 @@
-﻿# <p align="center"> PHP INSTALLATION ON UBUNTU-12.04</p>
+﻿# <p align="center"> PHP INSTALLATION ON UBUNTU-16.04</p>
 
 #### What is PHP?
 
@@ -171,5 +171,5 @@ Your output will look like this
 
 ## For one click installation
 
-* ### [Shell Script](php-12.04.sh)
+* ### [Shell Script](php-16.04.sh)
 
