@@ -33,7 +33,7 @@ First, we need to update our local package index to make sure we have a fresh li
 
 ```$ apt-get update```
 
-![Output](Images/1.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/1.png)
 
 ### Step-1:Installing PHP
 
