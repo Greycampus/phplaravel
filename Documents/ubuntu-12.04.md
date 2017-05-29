@@ -171,5 +171,5 @@ Your output will look like this
 
 ## For one click installation
 
-* ### [Shell Script](php-12.04.sh)
+* ### [Shell Script](https://github.com/Greycampus/phplaravel/blob/master/Documents/php-12.04.sh)
 
