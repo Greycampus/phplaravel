@@ -1,12 +1,12 @@
 # <p align="center"> PHP INSTALLATION ON UBUNTU</p>
 
-* #### For installation process on ubuntu-12.04:[Click Here](PHP-tutorial-12.04.md)
+* #### For installation process on ubuntu-12.04:[Click Here](https://github.com/Greycampus/phplaravel/blob/master/Documents/ubuntu-12.04.md)
 
-* #### For installation process on ubuntu-14.04:[Click Here](PHP-tutorial-14.04.md)
+* #### For installation process on ubuntu-14.04:[Click Here](https://github.com/Greycampus/phplaravel/blob/master/Documents/ubuntu-14.04.md)
 
-* #### For installation process on ubuntu-16.04:[Click Here](PHP-tutorial-16.04.md)
+* #### For installation process on ubuntu-16.04:[Click Here](https://github.com/Greycampus/phplaravel/blob/master/Documents/ubuntu-16.04.md)
 
-* #### For sample hello-world app:[Click Here](hello-world.md)
+* #### For sample hello-world app:[Click Here](https://github.com/Greycampus/phplaravel/blob/master/hello-world.md)
 
 
 # <p align="center"> PHP INSTALLATION ON UBUNTU-12.04</p>
