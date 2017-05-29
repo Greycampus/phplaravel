@@ -10,7 +10,7 @@ This repository contains step by step procedure for the installation of php usin
 
 * For sample Hello World App, read [hello-world.md](https://github.com/Greycampus/phplaravel/blob/master/hello-world.md).
 
-* Complete process for installation in all the three versions, read [complete.md](hhttps://github.com/Greycampus/phplaravel/blob/master/complete.md).
+* Complete process for installation in all the three versions, read [complete.md](https://github.com/Greycampus/phplaravel/blob/master/complete.md).
 
 
 
