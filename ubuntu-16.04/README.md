@@ -33,7 +33,7 @@ First, we need to update our local package index to make sure we have a fresh li
 
 ```$ apt-get update```
 
-![Output](1.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/1.png)
 
 ### Step-1:Installing PHP
 
@@ -45,9 +45,9 @@ $ apt-get update
 $ apt-get install -y php5.6 php5.6-mcrypt php5.6-gd
 ```
 
-![Output](2.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/2.png)
 
-![Output](3.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/3.png)
 
 * Note:If there is an error in add-apt-repository, then try below command
 ```
@@ -68,7 +68,7 @@ To install Apache2, use the following command
 
 ```$ apt-get install apache2 libapache2-mod-php5```
 
-![Output](4.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/4.png)
 
 #### What is MySQL?
 
@@ -88,7 +88,7 @@ To install MySql, use the below command
 
 ```$ apt-get install mysql-server php5-mysql```
 
-![Output](5.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/5.png)
 
 If there is any error in connecting MySql to PHP:
 
@@ -109,7 +109,7 @@ Note:If mbstring missing error occurs, then follow the below command
 
 ```$sudo apt-get install php5.6-mbstring php5.6-dom```
 
-![Output](6.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/6.png)
 
 #### What is Laravel?
 
@@ -124,7 +124,7 @@ $ cd /var/www
 $ apt-get install git
 $ git clone https://github.com/laravel/laravel.git
 ```
-![Output](7.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/7.png)
 
 Navigate to Laravel code directory and use composer to install all dependencies required for Laravel framework.
 
@@ -141,7 +141,7 @@ $ chmod -R 755 /var/www/laravel
 $ chmod -R 777 /var/www/laravel/app/storage
 ```
 
-![Output](8.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/8.png)
 
 ### Step-6:Set Encryption Key
 
@@ -163,11 +163,11 @@ Now edit config/app.php configuration file and update above generated applicatio
 
 ```$ php artisan serve```
 
-![Output](9.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/9.png)
 
 Your output will look like this
 
-![Output](output.png)
+![Output](https://github.com/Greycampus/phplaravel/blob/master/Images/output.png)
 
 ## For one click installation
 

@@ -66,7 +66,7 @@ This command will start a development server at http://localhost:8000:
 
 Your output will look like this
 
-![Hello world](hello.png)
+![Hello world](https://github.com/Greycampus/phplaravel/blob/master/Images/hello.png)
 
 * ### Step-5:
 
@@ -108,7 +108,7 @@ Now if you want view the about page, then change the url to http://localhost:800
 
 Your output will look like this
 
-![AboutUs](about.png)
+![AboutUs](https://github.com/Greycampus/phplaravel/blob/master/Images/about.png)
 
 Note: If there occurs an error like Failed to listen on localhost:8000 (reason: Address already in use)
 
