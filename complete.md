@@ -1,3 +1,5 @@
+# <p align="center"> PHP INSTALLATION ON UBUNTU</p>
+
 * #### For installation process on ubuntu-12.04:[Click Here](PHP-tutorial-12.04.md)
 
 * #### For installation process on ubuntu-14.04:[Click Here](PHP-tutorial-14.04.md)
@@ -7,7 +9,7 @@
 * #### For sample hello-world app:[Click Here](hello-world.md)
 
 
-﻿<p align="center"> PHP INSTALLATION ON UBUNTU-12.04</p>
+# <p align="center"> PHP INSTALLATION ON UBUNTU-12.04</p>
 
 #### What is PHP?
 
@@ -183,7 +185,7 @@ Your output will look like this
 * ### [Shell Script](php-12.04.sh)
 
 
-﻿<p align="center"> PHP INSTALLATION ON UBUNTU-14.04</p>
+# <p align="center"> PHP INSTALLATION ON UBUNTU-14.04</p>
 
 #### What is PHP?
 
@@ -358,8 +360,7 @@ Your output will look like this
 
 * ### [Shell Script](php-14.04.sh)
 
-
-﻿<p align="center"> PHP INSTALLATION ON UBUNTU-16.04</p>
+# <p align="center"> PHP INSTALLATION ON UBUNTU-16.04</p>
 
 #### What is PHP?
 
