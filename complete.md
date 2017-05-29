@@ -7,7 +7,7 @@
 * #### For sample hello-world app:[Click Here](hello-world.md)
 
 
-﻿# <p align="center"> PHP INSTALLATION ON UBUNTU-12.04</p>
+﻿<p align="center"> PHP INSTALLATION ON UBUNTU-12.04</p>
 
 #### What is PHP?
 
@@ -183,7 +183,7 @@ Your output will look like this
 * ### [Shell Script](php-12.04.sh)
 
 
-﻿# <p align="center"> PHP INSTALLATION ON UBUNTU-14.04</p>
+﻿<p align="center"> PHP INSTALLATION ON UBUNTU-14.04</p>
 
 #### What is PHP?
 
@@ -359,7 +359,7 @@ Your output will look like this
 * ### [Shell Script](php-14.04.sh)
 
 
-﻿# <p align="center"> PHP INSTALLATION ON UBUNTU-16.04</p>
+﻿<p align="center"> PHP INSTALLATION ON UBUNTU-16.04</p>
 
 #### What is PHP?
 
