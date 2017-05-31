@@ -63,7 +63,7 @@ Because we modified the default server block file, which is already enabled, we 
 
 Now go to the browser and type your domain name
 
-your output may look like this
+Your output may look like this
 
 ![output](https://github.com/Greycampus/phplaravel/blob/master/Images/nginx.png)
 
