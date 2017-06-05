@@ -17,34 +17,73 @@ This repository contains step by step procedure for the installation of php usin
 # TABLE OF CONTENTS
 
 ### 1.Getting started
- * Introduction of PHP
- * Installation of PHP
- * Configuring web server
- * PHP syntax and comments
- * Variables and Data types
+- Introduction of PHP
+- Installation of PHP
+- Configuring web server
+- PHP syntax and comments
+- Variables and Data types
+  * Local variables
+  * Functional parameters
+  * Global variables
+  * Static variables
+
 ### 2.Language Features
- * Operators
- * Decision making
- * Loop Types
- * Array types and functions
- * trings and functions
- * Get and Post methods
- * File inclusion
- * Php functions
+- Operators
+  * Arithmetic Operators
+  * Comparison Operators
+  * Logical Operators
+  * Assignment Operators
+  * Conditional Operators
+- Decision making
+  * if-else statement
+  * else if statement
+  * Switch statement
+- Loop Types
+  * while
+  * do-while
+  * for
+  * for-each
+  * break and continue
+- Array types and functions
+  * Indexed array
+  * Associative array
+  * Multi-dimensional array
+- Strings and functions
+- Get and Post methods
+- File inclusion
+  * Include function
+  * Require function
+  * Files & I/O
+    - Open/Read
+    - Create/write
+- Php functions
+
 ### 3.Advanced PHP
- * Cookies and sessions
- * Sending emails
- * Regular Expression
- * Error Handling
- * Exceptional Handling
- * Object-Oriented
- * Forms
+- Cookies and sessions
+- Sending emails
+- Regular Expression
+- Error Handling
+- Exceptional Handling
+- Object-Oriented
+  * Class 
+  * Object 
+  * Inheritance 
+  * Polymorphism 
+  * Overloading 
+  * Data Abstraction 
+  * Encapsulation 
+  * Constructor & Destructor
+- Forms
+  * Introduction
+  * Validation
+
 ### 4.Provisioning
- * Server Setup
- * PHP-FPM
- * nginx
- * The php.ini File
- * Session handling
+- Server Setup
+- PHP-FPM
+- nginx
+- The php.ini File
+- Session handling
+
 
  
 
