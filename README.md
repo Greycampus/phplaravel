@@ -18,9 +18,27 @@ This repository contains step by step procedure for the installation of php usin
 
 ### 1.Getting started
 - Introduction of PHP
-- Installation of PHP
+  * What is PHP
+  * Uses of PHP
+  * Charactersistics of PHP
+- Installation process
+  * Installation of PHP
+  * Installation of Apache
+  * Installation of MySql
+  * Installation of Laravel
 - Configuring web server
+  * nginx introduction
+  * How it works?
+- Basics of MySql
+  * Introduction
+  * Database creation
+  * Database updation
+  * Controlling database
 - PHP syntax and comments
+  * Types of Syntax
+  * Types of Comments
+    - Single-line Comments
+    - Multi-line Comments
 - Variables and Data types
   * Local variables
   * Functional parameters
@@ -56,13 +74,28 @@ This repository contains step by step procedure for the installation of php usin
   * Files & I/O
     - Open/Read
     - Create/write
-- Php functions
 
 ### 3.Advanced PHP
-- Cookies and sessions
+- PHP functions
+  * Creating PHP Function
+  * PHP Functions with Parameters
+  * Passing Arguments by Reference
+  * Dynamic Function Calls
+- Cookies
+  * Setting Cookies with PHP
+  * Accessing Cookies with PHP
+  * Deleting Cookie with PHP
+- Sessions
+  * Starting a PHP session
+  * Destroying a PHP session
 - Sending emails
+  * Sending plain text email
+  * Sending HTML email
+  * Sending attachments with email
 - Regular Expression
 - Error Handling
+  * Keywords: try,throw,catch
+  * Creating Custom Exception Handler
 - Exceptional Handling
 - Object-Oriented
   * Class 
