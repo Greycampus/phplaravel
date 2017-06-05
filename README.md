@@ -16,7 +16,7 @@ This repository contains step by step procedure for the installation of php usin
 
 # TABLE OF CONTENTS
 
-### 1.Getting started
+## 1.Getting started
 - Introduction of PHP
   * What is PHP
   * Uses of PHP
@@ -45,7 +45,7 @@ This repository contains step by step procedure for the installation of php usin
   * Global variables
   * Static variables
 
-### 2.Language Features
+## 2.Language Features
 - Operators
   * Arithmetic Operators
   * Comparison Operators
@@ -75,7 +75,7 @@ This repository contains step by step procedure for the installation of php usin
     - Open/Read
     - Create/write
 
-### 3.Advanced PHP
+## 3.Advanced PHP
 - PHP functions
   * Creating PHP Function
   * PHP Functions with Parameters
@@ -110,7 +110,7 @@ This repository contains step by step procedure for the installation of php usin
   * Introduction
   * Validation
 
-### 4.Provisioning
+## 4.Provisioning
 - Server Setup
 - PHP-FPM
 - nginx
