@@ -1,24 +1,25 @@
-**** Installation
+Installation
 1.Hello World
 2.Search the web and find a way to take user's name as input in prompt and print hello user
 
-**** Variables
+Variables
 1.Use pi value as global variable in your program to print the area of circle
 2.Use local variable take input from user and print the nearest prime power of 3.
 3.Program using Constants
 
-**** Datatypes
+Datatypes
 1.Take input from user and print the type of data inputed
 2.Take input a sequence of numbers from user and store it in a list or array
 3.Initialize a hash or dictionary with five key->value sets and print the second the key->value pair
 
-**** Type casting
+Type casting
 1.Take float as input from user and convert it into integer and string and print it in respective manner
 2.Take a array of numbers and convert it into a string
 3.Take a string and convert it into list or array by using the spaces in the string as delimiter
 
-****  Control Structures
-**** if-else and elif
+Control Structures:
+
+if-else and elif
 1.Print whether a given number is odd and also a multiple of nine
 2.Print the grade of person using the following conditions
   ->A if percentage >85
@@ -34,7 +35,7 @@
   The year is also evenly divisible by 400. Then it is a leap year.
 5.Find derivative and integral of polynomial
 
-**** Loops
+Loops
 1.In physics, contact between objects during a collision leads to loss of force as no medium is perfect.
 likely we are having n medium in a plane each of equal length followed by qouitient of reduction, In can be well
 explained using the following example
@@ -73,7 +74,7 @@ output:
   11
   111
 
-**** Datatype recap with loops
+Datatype recap with loops
 1.Should find the percentage of a student for input given in following manner
 3
 rag 78 56 72
@@ -94,13 +95,13 @@ praveen
 rag
 3.Use array as set  in the program to store only unique items in a array or list
 
-**** File Handling
+File Handling
 1.Open a text file and print all the data in it.
 2.Open a text file and print the nth line in text file if nth line does not exist print 'no data'
 3.Open a csv file and print only the second column in the file
 4.Append two files
 
-**** Functions
+Functions
 1. Write a function to find gcd of two numbers
 2. Write a function to find whether a given number is armstrong number or not
 3. Write a number to generate sequence of primes that are exactly at absoute difference of 1 with powers of two.
@@ -108,13 +109,13 @@ rag
 in string belongs to a particular party
 5. Factorial of a number.
 
-**** Regular Expressions
+Regular Expressions
 1.Extract the mail addresses in the given string using regular expression
 2.Find the sum of the numbers in a string 1A2wq1acef31sdac4
 3.Replace all the patterns like '[!*]' without using loops
 4.Find the total occurences of a symbol in string using reqular expressions
 
-**** OOPS
+OOPS
 1.Build a class to store the data of the mobile phones with screen size,ram,company and processor along with Constructor and function to estimate cost of phone based on conditions
   samsung:7000(pr)
   moto:5999
@@ -125,13 +126,13 @@ in string belongs to a particular party
 3.Use Function Overriding and polymorphism in a class
 4.Implement a substitution cipher in a class using regular expressions by inhereting ciphers from a parent class function
 
-**** Serialization
+Serialization
 1.Use serialization for getting a series of natural numbers
 Exception handling
 1.use Exception handling to catch divided by zero and divided by power of 2 exceptions
 2.Use exception handling to prevent the calculation of roots of quadratic equation if root as complex
 
-**** Iterators
+Iterators
 1.Use iterators to generate the multiples of two and three
 
 
