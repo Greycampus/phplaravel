@@ -21,74 +21,122 @@
 * if-else and elif
 1. Print whether a given number is odd and also a multiple of nine
 2. Print the grade of person using the following conditions
+
   ->A if percentage >85
+
   ->A- if %<=85 and >80
+
   ->B if %<=80 and >70
+
   ->C if %<=70 and >60
+
   ->D if %<=60 and >40
+
   ->E if %<=40 and also should print 'candidate failed' if %<=35
 3. Find maxima or minima of a given function
 4. Should find whether the given year is leap year or not following the conditions
+
   The year can be evenly divided by 4, unless;
+
   The year can be evenly divided by 100, it is NOT a leap year, unless;
+
   The year is also evenly divisible by 400. Then it is a leap year.
+
 5. Find derivative and integral of polynomial
 
 * Loops
 1. In physics, contact between objects during a collision leads to loss of force as no medium is perfect. Likely we are having n medium in a plane each of equal length followed by qouitient of reduction, In can be well explained using the following example:
 A person throws a ball on plane from certain height h of n medium your job is to find distance traveled in plane and the medium is repetted in cyclic order and height is only considered in integers:
    * Input:
+
    3(number of mediums)
+
    4(length of each)
+
    5(height from which ball is thrown)
+
    2(distance travelled for each step)
+
    0.1
+
    0.3
+
    0.5
+
    * output:
    first  step 5*0.9= 4 dist = 2
+
    second step 4*0.9= 3 dist = 4
+
    third  step 3*0.7= 2 dist = 6
+
    fouth  step 2*0.7= 1 dist = 8
+
    fifth  step 1*0.5= 0 dist = 10
+
    so,the result is 10(ten) steps
 2. Using loops of your choice and print as follows for a given input
-* input:
-3
-9
-* output:
-----a----
----bbb---
---ccccc--
----bbb---
-----a----
+	* input:
+
+	3
+
+	9
+	* output:
+	----a----
+
+	---bbb---
+
+	--ccccc--
+
+	---bbb---
+
+	----a----
 3. Check whether a given number is in a goemetric progression or not for a given initial value and factor
 4. Using loops make a game to play bulls and cows
 5. Print the number pyramid of height n(input from user) 
   1
+
   11
+
   111
 
 #### Datatype recap with loops
 1. Should find the percentage of a student for input given in following manner
+
 3
+
 rag 78 56 72
+
 teja 83 67 78
+
 bhavana 83 75 67
+
 bhavana
+
 output: 75
+
 2. Should print  the name of student having second least percentage from the given list of students  if
 there are multiple students should print multiple students in alphabetical order
+
 5
+
 rag 77
+
 teja 89
+
 bhavana 84
+
 praveen 77
+
 bhadram 75
+
 output:
+
 praveen
+
 rag
-3. Use array as set  in the program to store only unique items in a array or list
+3. Use a
+rray as set  in the program to store only unique items in a array or list
 
 #### File Handling
 1. Open a text file and print all the data in it.
@@ -112,10 +160,15 @@ in string belongs to a particular party
 
 #### OOPS
 1. Build a class to store the data of the mobile phones with screen size,ram,company and processor along with Constructor and function to       estimate cost of phone based on conditions
+
   samsung:7000(pr)
+
   moto:5999
+
   lenovo:4000
+
   nokia:6100
+
   est cost = pr*(scr size/4.0)+pr*(ram/1.0)+pr*(proc/1.0)+0.05*pr
 2. Use the mobile phone class as parent and build the accessory class for a shop for biling purpose.
 3. Use Function Overriding and polymorphism in a class
