@@ -14,6 +14,10 @@ This repository contains step by step procedure for the installation of php usin
 
 * Complete process for installation in all the three versions, read [complete.md](https://github.com/Greycampus/phplaravel/blob/master/complete.md).
 
+* For PHP concepts tutorial, read [php-tutorial.md](https://github.com/Greycampus/phplaravel/blob/master/php-tutorial.md).
+
+* For sample example programs in php, read [Programs](https://github.com/Greycampus/phplaravel/tree/master/programs).
+
 # TABLE OF CONTENTS
 
 1. Introduction
